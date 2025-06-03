@@ -1,5 +1,5 @@
-# Cybersecurity-Internship-Task6-PasswordStrength
-Password Strength Evaluation 🔐
+Cybersecurity-Internship-Task6-PasswordStrength
+Password Strength Evaluation
 
 Objective
 To understand what makes a password strong by creating and evaluating multiple passwords using online strength-checking tools.
