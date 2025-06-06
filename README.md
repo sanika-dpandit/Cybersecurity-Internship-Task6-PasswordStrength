@@ -53,3 +53,30 @@ Deliverables
 - Password strength analysis
 - Summary of results and lessons learned
 
+Extra Research
+Common Password Attacks:
+
+Brute Force Attack: Tries all possible combinations until the correct password is found. Strong passwords take exponentially longer to crack.
+
+Dictionary Attack: Uses a list of common words or leaked credentials. Passwords based on names, dates, or common phrases are highly vulnerable.
+
+Credential Stuffing: Reuses leaked passwords on multiple sites, exploiting users who repeat passwords across platforms.
+
+Keylogging & Phishing: Attackers capture keystrokes or trick users into entering credentials on fake sites.
+
+Best Practices:
+
+Use unique, long passwords (12–16+ characters).
+
+Include uppercase, lowercase, numbers, and special symbols.
+
+Avoid using personal information or common patterns.
+
+Consider passphrases (e.g., “Horse!Battery7Staple”) for both strength and memorability.
+
+Use password managers to securely store and generate strong passwords.
+
+Enable multi-factor authentication (MFA) whenever possible.
+
+Interview Questions Answered (Summary)
+A strong password is one that is long, complex, and unpredictable, making it resistant to brute force and dictionary attacks. Password length is critical because each additional character exponentially increases the difficulty of guessing. Dictionary attacks exploit common or reused passwords, while brute force attacks try every possible combination. Passphrases offer strength and memorability. Multi-factor authentication (MFA) adds another security layer beyond just passwords. Password managers help users maintain strong, unique passwords without needing to remember each one. Avoiding reuse and simple passwords is key to secure authentication practices.
